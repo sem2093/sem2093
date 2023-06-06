@@ -1,6 +1,6 @@
 Hi, I’m @sem2093
- I’m interested in ... development 
- I’m currently learning ... JavaScript, Python, React, C#, C++ and SQL.
+ I’m interested in development.
+ I’m currently learning JavaScript, Python, React, C#, C++ and SQL.
  
 
 <!---
