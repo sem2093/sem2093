@@ -1,5 +1,5 @@
 <h1> Hi, I’m @sem2093 or Steve</h1> 
-<code><img title="me" alt="me"   width="150" src="B8D4456D-A7E4-4FD0-9F8E-EA8E59116872.png"></code>
+<code><img title="me" alt="me"   width="100%" src="B8D4456D-A7E4-4FD0-9F8E-EA8E59116872.png"></code>
 
  I’m interested in development.
  I’m currently learning JavaScript, Python, React, C#, C++ and SQL.
