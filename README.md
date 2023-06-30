@@ -2,13 +2,14 @@
 
 
  I’m interested in development.
- I’m currently learning JavaScript, Python, React, C#, C++ and SQL.
+ I’m currently training in JavaScript.
 
+<h2> Certificates</h2>
 <img src="CB2D6C1C-D8DA-44F6-A939-AA09FFC4CB77.jpeg">
 
 <img src="BA5A71A7-4F95-4044-A7D5-C1A24C20B12F.jpeg">
 
-<img src=
+<img src="7801E883-AC69-4203-AB51-328C5459550C.jpeg">
  
  
  
