@@ -4,9 +4,11 @@
  I’m interested in development.
  I’m currently learning JavaScript, Python, React, C#, C++ and SQL.
 
-    <iframe src="JavaScriptcertificate.pdf"></iframe>
-      <iframe src="HTML certification .pdf"></iframe>
-      <iframe src="SQLcertificate.pdf"></iframe>
+<img src="CB2D6C1C-D8DA-44F6-A939-AA09FFC4CB77.jpeg">
+
+<img src=
+
+<img src=
  
  
  
