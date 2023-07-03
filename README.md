@@ -1,10 +1,22 @@
-<h1> Hi, I’m @sem2093 or Steve</h1> 
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
+![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+
+
+
+# @sem2093=Steve
+
+<code><h3 style="color:blue;">test</h3>
 
  I’m interested in development.
  I’m currently training in JavaScript.
 
-<h2> Certificates</h2>
+## Certificates 
 
 <img src="CB2D6C1C-D8DA-44F6-A939-AA09FFC4CB77.jpeg">
 
