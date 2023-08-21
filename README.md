@@ -20,9 +20,7 @@
 
 
 
-# @sem2093=Steve
-
-<code><h3 style="color:blue;">test</h3>
+# @sem2093=Steve Miller
 
  I’m interested in development.
  I’m currently training in JavaScript.
