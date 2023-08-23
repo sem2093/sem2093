@@ -29,8 +29,23 @@
 
 <img src="certificates/13CD359F-9B4B-4AFA-81F9-D5E3563071E8.jpeg">
 
+<img src="certificates/7295ECB3-E1B4-47DA-9E9D-6967EFC61B7F.jpeg">
 
- 
+<img src="certificates/865F41B3-96D2-4DAA-97E6-130C35657F99.jpeg">
+
+<img src="certificates/8776502F-DADA-40B4-BE1F-FC8B9EAC69B2.jpeg">
+
+<img src="certificates/8E71DCFF-D64A-4CC6-8A91-A8AF265681A1.jpeg">
+
+<img src="certificates/C7D4FB2C-885E-4E65-8AFA-39B0BF28AC56.jpeg">
+
+<img src="certificates/DA835802-6D8D-4AAE-9F42-900022064DB9.jpeg">
+
+<img src="certificates/EC5FBD86-BDC8-4A8F-B149-CAAD5EBC21A7.jpeg">
+
+<img src="certificates/EDF1FFAB-7B40-469F-B814-757FB8203B26.jpeg">
+
+
  
  
  
