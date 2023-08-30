@@ -18,8 +18,6 @@
 
 
 
-
-
 # @sem2093=Steve Miller
 
  I’m interested in development.
