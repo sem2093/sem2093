@@ -6,8 +6,7 @@
 
 # @sem2093=Steve Miller
 
- I’m interested in development.
- I’m currently training in JavaScript.
+I'm a Full Stack Developer and I've been coding since 2023.
 
 ## Certificates 
 
